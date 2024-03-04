@@ -26,12 +26,9 @@
 ### Lenguajes de programación
 <p align="left">
 	<img src="https://icongr.am/devicon/java-original.svg?size=40&color=currentColor" alt="img1"/>
-	<img src="
-	https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="img2"/>
-	<img src="
-	https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="img3.3" width="40"/>
-	<img src="
-	https://icongr.am/devicon/python-original.svg?size=40&color=currentColor" alt="img3"/>
+	<img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="imgasd2"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="img3.sad3" width="40"/>
+	<img src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor" alt="imgsd3"/>
 </p>
 
 ### Frameworks backend:
