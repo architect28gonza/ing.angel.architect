@@ -64,12 +64,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="85" />
 </p>
 
-### Desarrollo de Apps Moviles Android : 
-<p align="left">
-<img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" />
-<img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="85" >
-</p>
-
 ### Herramientas de desarrollo
 <p align="left">
 <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" />
