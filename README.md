@@ -2,9 +2,9 @@
 
 <p align="justify">I am a systems engineer with 6 years of experience with knowledge in systems architecture and passionate about the design, construction, analysis, and development of innovative technological solutions. My comprehensive training and professional ethics are complemented by a strong focus on creating scalable, efficient architectures and high-quality developments, ensuring alignment with business needs while promoting technological innovation.</p>
 
-<h3 align="left">Conectate conmigo</h3>  
+<h3 align="left">Contact me</h3>  
 <p align="left">  
-<a href="https://linkedin.com/in/www.linkedin.com/in/ángel-gonzález-509b06242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ángel-gonzález-509b06242" height="30" width="40" /></a>  
+<a href="www.linkedin.com/in/ángel-gonzález-509b06242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ángel-gonzález-509b06242" height="30" width="40" /></a>  
 </p>
 
 ## Sobre  mi :
@@ -16,15 +16,15 @@
 	- 📲 Telefonía.
 	- 👨‍💻Sociedad de tecnología e innovación.
 	- 🙋Secretaría de suministros y servicios.
--   **Habilidades Blandas**:
+-   **Soft skills**:
     - ✅Resolución de problemas.
     - &#128208;Diseño de soluciones para problemas empresariales.
     -  &#128101;Trabajo en equipo.
     - &#128227;Comunicación efectiva.
     - &#128218;Aprendizaje continuo.
 
-## Habilidades técnicas :
-### Lenguajes de programación
+## Technical skills :
+### Programming languages
 <p align="left">
 	<img src="https://icongr.am/devicon/java-original.svg?size=40&color=currentColor" alt="img1"/>
 	<img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="imgasd2"/>
