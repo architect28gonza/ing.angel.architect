@@ -7,7 +7,7 @@
 <a href="www.linkedin.com/in/ángel-gonzález-509b06242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ángel-gonzález-509b06242" height="30" width="40" /></a>  
 </p>
 
-## Sobre  mi :
+## About me :
 - **Current job:**  INETUM
 - **Labored countries :** Colombia, España.
 - **Work experience** :
@@ -50,13 +50,13 @@
 <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" />
 </p>
 
-### Desarrollo de App Moviles :
+### Mobile App Development:
 <p align="left">
 <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" />
 <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="85" >
 </p>
 
-### Base de datos :
+### Database :
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65"/>
 <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" />
@@ -65,7 +65,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="85" />
 </p>
 
-### Herramientas de desarrollo
+### Development tools
 <p align="left">
 <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" />
 <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="49" />
