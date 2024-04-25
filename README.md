@@ -1,5 +1,5 @@
-<h1>Hola👋, Mi nombre es Ángel de Jesús González Sánchez</h1>
-<p align="justify">Soy un ingeniero de sistemas con 6 años de experiencia con conocimientos en la arquitectura de sistemas y apasionado por el diseño, construcción, análisis, y desarrollo de soluciones tecnológicas innovadoras. Mi formación integral y ética profesional se complementan con un fuerte enfocada en la creación de arquitecturas escalables, eficientes y desarrollos de alta calidad asegurando la alineación con las necesidades del negocio mientras se promueve la innovación tecnológica.</p>
+<h1>Hello👋, My name is Ángel de Jesús González Sánchez/h1>
+<p align="justify">I am a systems engineer with 6 years of experience with knowledge in systems architecture and passionate about the design, construction, analysis, and development of innovative technological solutions. My comprehensive training and professional ethics are complemented by a strong focus on creating scalable, efficient architectures and high-quality developments, ensuring alignment with business needs while promoting technological innovation.</p>
 
 <h3 align="left">Conectate conmigo</h3>  
 <p align="left">  
@@ -7,9 +7,9 @@
 </p>
 
 ## Sobre  mi :
-- **Trabajo actual :**  INETUM
-- **Paises laborados :** Colombia, España.
-- **Experiencia laboral en** :
+- **Current job:**  INETUM
+- **Labored countries :** Colombia, España.
+- **Work experience** :
  	- 👨‍⚕️ Sector de la salud. 
 	- 📚Gobernación.
 	- 📲 Telefonía.
