@@ -11,17 +11,17 @@
 - **Current job:**  INETUM
 - **Labored countries :** Colombia, España.
 - **Work experience** :
- 	- 👨‍⚕️ Sector de la salud. 
-	- 📚Gobernación.
-	- 📲 Telefonía.
-	- 👨‍💻Sociedad de tecnología e innovación.
-	- 🙋Secretaría de suministros y servicios.
+ 	- 👨‍⚕️ Health sector. 
+	- 📚 Governorate.
+	- 📲 Telephony.
+	- 👨‍💻 Technology and innovation society.
+	- 🙋 Supplies and services secretariat.
 -   **Soft skills**:
-    - ✅Resolución de problemas.
-    - &#128208;Diseño de soluciones para problemas empresariales.
-    -  &#128101;Trabajo en equipo.
-    - &#128227;Comunicación efectiva.
-    - &#128218;Aprendizaje continuo.
+    - ✅Problem resolution.
+    - &#128208;Design of solutions for business problems.
+    -  &#128101;Teamwork.
+    - &#128227;Effective communication.
+    - &#128218;Continuous learning.
 
 ## Technical skills :
 ### Programming languages
